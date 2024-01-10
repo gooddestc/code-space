@@ -1,0 +1,24 @@
+.nav-item:hover{
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+    
+}
+.nav-item{
+    color: gray
+}
+.ftl{
+    float: right;
+width: 42%;
+margin:2.5% ;
+}
+.wed{
+    text-align:center;
+}
+.sec{
+    margin-top:80px
+}
+@media screen and (max-width:600px) {
+ .ftl{
+    width:90%;
+}
+}
